@@ -33,12 +33,10 @@ After that Configure your network in kali linux machine before turning on to be 
 ![Configure your kali networking rule](https://github.com/mrhili/behindwhonix/raw/master/assets/network.jpg)
 
 
-
 CHANGE MANUALLY YOUR VM MAC ADRESS
 
 
-
-![manually change mac adress in virtual box](https://github.com/mrhili/behindwhonix/raw/master/assets/macchanger.png)
+![manually change mac adress in virtual box](https://github.com/mrhili/behindwhonix/raw/master/assets/macchange.png)
 
 Run kali linux
 
