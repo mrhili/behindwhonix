@@ -30,11 +30,11 @@ update whonix
 configure tor in whonix
 
 After that Configure your network in kali linux machine before turning on to be Internal network and select Whonix
-![Configure your kali networking rule](https://github.com/mrhili/behindwhonix/assets/network.jpg)
+![Configure your kali networking rule](https://github.com/mrhili/behindwhonix/raw/master/assets/network.jpg)
 
 CHANGE MANUALLY YOUR VM MAC ADRESS
 
-![manually change mac adress in virtual box](https://github.com/mrhili/behindwhonix/assets/macchanger.jpg)
+![manually change mac adress in virtual box](https://github.com/mrhili/behindwhonix/raw/master/assets/macchanger.jpg)
 
 Run kali linux
 
@@ -52,7 +52,7 @@ Dont worry you should have a copy of /etc/network/interfaces in /etc/network/int
 
 check tor to see if you succusfully behind tor proxy
 
-![Cheking tor from official website](https://github.com/mrhili/behindwhonix/assets/check-tor.jpg)
+![Cheking tor from official website](https://github.com/mrhili/behindwhonix/raw/master/assets/check-tor.jpg)
 
 ## Built With
 
