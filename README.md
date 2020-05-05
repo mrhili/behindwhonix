@@ -52,6 +52,8 @@ Dont worry you should have a copy of /etc/network/interfaces in /etc/network/int
 
 check tor to see if you succusfully behind tor proxy
 
+run a vpn
+
 ![Cheking tor from official website](https://github.com/mrhili/behindwhonix/raw/master/assets/check-tor.jpg)
 
 ## Built With
