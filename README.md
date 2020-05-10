@@ -13,10 +13,13 @@ it can crash your network
 
 git clone https://github.com/mrhili/behindwhonix
 
+cd behindwhonix
+
 chmod +x anonymize.sh && chmod +x deanonymize.sh
 
 
 ./anonymize.sh
+
 
 ## To deanonimize
 
