@@ -3,7 +3,7 @@
 
 A bash script that help you configure your dns kali machine to be online when you are behind whonix machine
 
-# behindwhonix
+# disclaimer
 
 Script is under developement dont run it untill you fully read it before
 
@@ -13,9 +13,14 @@ it can crash your network
 
 git clone https://github.com/mrhili/behindwhonix
 
-chmod +x anonymize.sh
+chmod +x anonymize.sh && chmod +x deanonymize.sh
+
 
 ./anonymize.sh
+
+## To deanonimize
+
+./deanonymize.sh
 
 ### Prerequisites
 
@@ -54,9 +59,14 @@ Dont worry you should have a copy of /etc/network/interfaces in /etc/network/int
 
 check tor to see if you succusfully behind tor proxy
 
+![Cheking tor from official website](https://github.com/mrhili/behindwhonix/raw/master/assets/check-tor.jpg)
+
 run a vpn
 
-![Cheking tor from official website](https://github.com/mrhili/behindwhonix/raw/master/assets/check-tor.jpg)
+# deanonimization
+
+
+
 
 ## Built With
 
