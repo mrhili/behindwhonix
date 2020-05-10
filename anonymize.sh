@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 # bash shell script that anonymize you and deanonymize you , it work behind whonix
 
