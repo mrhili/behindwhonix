@@ -25,6 +25,13 @@ chmod +x anonymize.sh && chmod +x deanonymize.sh
 
 ./deanonymize.sh
 
+## NOTICE
+
+you find a backup of your networking file here
+
+
+/etc/network/interfaces.behindwhonixbackup
+/etc/resolv.conf.behindwhonixbackup
 ### Prerequisites
 
 Before runing this script you should configure whonix in virtual box
@@ -65,9 +72,6 @@ check tor to see if you succusfully behind tor proxy
 ![Cheking tor from official website](https://github.com/mrhili/behindwhonix/raw/master/assets/check-tor.jpg)
 
 run a vpn
-
-# deanonimization
-
 
 
 
